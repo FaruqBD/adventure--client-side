@@ -1,0 +1,17 @@
+#serviceDetails form{
+    display: flex;
+    flex-direction: column;
+    margin: 0 40px;
+}
+#serviceDetails form input, textarea, select{
+    width: 90%;
+    margin-bottom: 10px;
+    padding-left: 5px;
+}
+.text-left{
+    padding-bottom: 10px;
+    text-align: left!important;
+}
+#serviceDetails form p{
+    margin-bottom: 2px;
+}

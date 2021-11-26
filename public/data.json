@@ -1,0 +1,173 @@
+[
+   
+    {
+        "id": "1",
+        "name": "General Surgery",
+        "price": "2400",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Surgen",
+        "consultantId" : "1",
+        "description": "A Surgeon is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/J7Ltwcv/ct-lung-assesment.jpg",
+        "img": "https://i.ibb.co/KyV10dR/medi-team03-615x410.jpg"
+    },
+    {
+        "id": "2",
+        "name": "CT Scan",
+        "price": "2000",
+        "drName": "Monwara Mow",
+        "drCat": "Dental",
+        "consultantId" : "1",
+        "description": "We offer computerised tomography (CT) scan services with reports from specialist consultants in 3 working days.",
+        "imgFeatured": "https://i.ibb.co/hH93m3M/ct-scan.jpg",
+        "img": "https://i.ibb.co/1R53QCF/medi-team04-615x410.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Endoscopy",
+        "price": "1500",
+        "drName": "Reyana Rahman",
+        "drCat": "Radiology",
+        "consultantId" : "1",
+        "description": "Endoscopy is the insertion of a long, thin tube directly into the body to observe an internal organ or tissue in detail.",
+        "imgFeatured": "https://i.ibb.co/Vq9Zhqs/endoscopy.jpg",
+        "img": "https://i.ibb.co/Wxgwsjc/medi-team02-615x410.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Pharmecy",
+        "price": "100",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Pharmecy",
+        "description": "A Pharmecy is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2vFb5bg/digital-mammography.png",
+        "img": "https://i.ibb.co/GRfcmdB/service57.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Medicine",
+        "price": "500",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Pathologist",
+        "description": "A Medicine is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/tsDfCX7/eye-screening.jpg",
+        "img": "https://i.ibb.co/kShWHds/service56.jpg"
+    },
+    {
+        "id": "6",
+        "name": "MRI",
+        "price": "2000",
+        "drName": "Salma Nur",
+        "drCat": "Surgery",
+        "consultantId" : "1",
+        "description": "An ECG is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/4pWLz7B/mri-scan.jpg",
+        "img": "https://i.ibb.co/4pSY16T/service58.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Padiatric",
+        "price": "700",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Pathologist",
+        "description": "An ECG is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/s9YBV64/service55.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Dental Skelling",
+        "price": "1000",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Pathologist",
+        "description": "Dental Skelling is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/YpLkvVT/servce10.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Psychiatric",
+        "price": "800",
+        "drName": "Sabikun Naher",
+        "drCat": "Medicine",
+        "consultantId" : "1",
+        "description": "Psychiatric is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/RTpLZsq/service6.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Orthopadic",
+        "price": "700",
+        "drName": "Mowsumi Mow",
+        "drCat": "Diabetic",
+        "consultantId" : "1",
+        "description": "Orthopadic is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/8ztvyNV/service9.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Dental",
+        "price": "700",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Pathologist",
+        "description": "An ECG is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/54n4hc9/dental3.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Dental Surgery",
+        "price": "700",
+        "drName": "Shilpa D. Singh",
+        "drCat": "Pathologist",
+        "description": "Dental Surgery is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/Fb39Dsj/service2.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Skin",
+        "price": "700",
+        "drName": "Farzana Riya",
+        "drCat": "Orthopedic",
+        "consultantId" : "1",
+        "description": "Orthopadic is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/pvXbCFm/pic-team-1.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Orthopadic",
+        "price": "700",
+        "drName": "Suhasini Khan",
+        "drCat": "Medicin",
+        "consultantId" : "1",
+        "description": "Orthopadic is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/hK8BxPK/pic-team-2.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Surgery",
+        "price": "700",
+        "drName": "Pinthiraz Gosal",
+        "drCat": "Pathologist",
+        "consultantId" : "1",
+        "description": "Orthopadic is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/87SCFBx/pic-team-3.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Medicine",
+        "price": "700",
+        "drName": "Raza Miah",
+        "drCat": "Surgean",
+        "consultantId" : "1",
+        "description": "Orthopadic is one of the most common heart tests which monitors your heart rate, rhythm and electrical activity.",
+        "imgFeatured": "https://i.ibb.co/2WrYChp/ultrasound.jpg",
+        "img": "https://i.ibb.co/WGG79zS/pic-team-4.jpg"
+    }
+]
